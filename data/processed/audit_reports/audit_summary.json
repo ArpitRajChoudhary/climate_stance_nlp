@@ -1,0 +1,24 @@
+{
+    "total_annotations": 611,
+    "unique_comment_ids": 611,
+    "duplicate_comment_ids": 0,
+    "duplicate_text_records": 29,
+    "missing_value_records": 0,
+    "relevant_comments": 212,
+    "irrelevant_comments": 349,
+    "uncertain_comments": 50,
+    "stance_distribution": {
+        "None": 445,
+        "Favour": 157,
+        "Against": 9
+    },
+    "reports_generated": {
+        "missing_values": 0,
+        "duplicate_comment_ids": 0,
+        "duplicate_comment_text": 29,
+        "invalid_relevance_labels": 0,
+        "invalid_stance_labels": 0,
+        "relevance_stance_conflicts": 0,
+        "language_review_crosscheck": 104
+    }
+}

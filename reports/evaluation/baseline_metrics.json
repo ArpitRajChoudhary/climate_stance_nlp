@@ -1,0 +1,14 @@
+{
+    "model": "baseline",
+    "evaluated_samples": 202,
+    "accuracy": 0.7178217821782178,
+    "balanced_accuracy": 0.3218897839151004,
+    "precision_macro": 0.3021021021021021,
+    "recall_macro": 0.3218897839151004,
+    "f1_macro": 0.3057175251052802,
+    "precision_weighted": 0.6263848006422265,
+    "recall_weighted": 0.7178217821782178,
+    "f1_weighted": 0.6658091100655256,
+    "matthews_correlation_coefficient": -0.047414063211668495,
+    "cohen_kappa": -0.04133128334991398
+}
